@@ -304,6 +304,12 @@ a:focus {
   width: 940px;
 }
 
+.span12-custom {
+  width: 940px;
+  text-align: center;
+  margin-bottom: -30px;
+}
+
 .span11 {
   width: 860px;
 }
