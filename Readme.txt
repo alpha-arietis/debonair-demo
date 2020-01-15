@@ -1,6 +1,2 @@
-Thanks for downloading this theme!
-
-Theme Name: Lumia
-Theme URL: https://bootstrapmade.com/lumia-bootstrap-business-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Demo website for Debonair
+Free theme used for this demo so contact form and search bar are not functional (upgrade required)
