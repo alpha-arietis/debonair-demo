@@ -307,6 +307,7 @@ a:focus {
 .span12-custom {
   width: 940px;
   text-align: center;
+  justify-content: center;
   margin-bottom: -30px;
 }
 
